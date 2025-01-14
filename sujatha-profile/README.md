@@ -12,4 +12,4 @@ Hello everyone!MY name is sujatha
 3. get comfortable sharing my code and feedback with others
 
 ### i love scenaries
-![scenary][./images/scenary.jpg]
+![scenary](images/scenary.jpg)
