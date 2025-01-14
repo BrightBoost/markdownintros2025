@@ -1,5 +1,5 @@
 # sujatha's profile
-Hello everyone!MY name is sujatha
+Hello everyone!MY name is sujatha yaganti
 
 ### about me
 - I love coding,especially in Pega
