@@ -15,5 +15,5 @@ I love to learn and grow
 3. Understand more on code branching, commiting and resolving merge conflicts
 
 # My profile picture
-![sruthi profile picture](./images.flower.jpg)
+![sruthi profile picture](./images/flower.jpg)
 
