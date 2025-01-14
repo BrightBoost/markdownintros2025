@@ -1,4 +1,4 @@
-# My name is Louise :)
+# My name is Louise Crowe :)
 
 ## About Me
 - I love learning new things.
@@ -11,4 +11,5 @@
 2. I haven't written code in a very long time but am remembering how much I enjoyed it.  I want to refresh my small knowledge.
 3. Get used to working in a structured way again, especially working with others online.
 
-## 
+## My Profile Picture
+![](./Images/Travel.jpg)
